@@ -1,8 +1,8 @@
 # flask and youtube api
-##music player
+## music player
 
-> pip install flask
-> pip install youtube-search
+>pip install flask
+>pip install youtube-search
 
 
 
